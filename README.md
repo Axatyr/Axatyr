@@ -5,7 +5,7 @@ Enthusiastic about IoT and Game development
 -------------------------------------------
 
 *   🧠  Actually learning Angular
-*   ⚡  I'm a Cyber Security Analyst
+*   ⚡  Work at Yoroi as Cyber Security Analyst
    
 ### Skills 
 <p align="left">
