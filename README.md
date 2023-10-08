@@ -5,8 +5,9 @@ Enthusiastic about IoT and Game development
 -------------------------------------------
 
 *   🎓  Graduated on Engineering and Computer Science at Unibo
-*   🖥️  Work at Yoroi as Cyber Security Analyst
-*   🧠  Actually learning Angular
+*   📚  Studying LM Engineering and Computer Science at Unibo
+*   🖥️  Work at Maggioli as Software Engineer
+*   🧠  Actually learning Finance and Investment 
 *   🔭  Actually exploring Bitcoin, Crypto, Hardware wallet
 
    
